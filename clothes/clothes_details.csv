@@ -1,0 +1,11 @@
+Product_ID,Product_name,Category,Size,Color,Gender,Price,UnitsSold,StoreLocation,Season,DateSold
+1,"Finally Shoes",Shoes,XS,Blue,Unisex,120.50,117,Chicago,Winter,2025-03-13
+10,"Armani Suit",Suits,XL,Blue,Men,100.00,23,Miami,"All Season",2025-03-18
+2,"Well Jackets",Accessories,XS,White,Unisex,26.59,57,Miami,Winter,2025-06-19
+3,"Meeting Jeans",Shoes,S,Blue,Unisex,29.15,112,Miami,Winter,2025-02-10
+4,"Happen Tops",Accessories,S,Yellow,Men,127.96,34,Chicago,Winter,2025-06-01
+5,"Kid Shoes",Jeans,S,Yellow,Unisex,82.57,194,"Los Angeles",Spring,2025-05-26
+6,"Light Dresses",Tops,XL,Green,Men,142.30,24,Houston,Winter,2025-06-15
+7,"Set Dresses",Accessories,S,Red,Women,130.41,155,"New York",Winter,2025-06-05
+8,"Less Dresses",Dresses,XL,Red,Unisex,106.89,14,Houston,Winter,2025-01-25
+9,"Collared Shirt",Shirts,XXl,Pink,Men,123.48,20,"Los Angeles",Autumn,2025-04-15
